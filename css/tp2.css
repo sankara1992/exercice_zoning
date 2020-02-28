@@ -1,0 +1,16 @@
+body {
+    background: aquamarine; 
+    color: #fff;  
+}
+
+#container {
+    background: rgb(100, 100, 100);
+    width: 80px;
+    margin: 0;
+    
+}
+
+header {
+    background: #228822;
+
+}
